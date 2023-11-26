@@ -554,25 +554,25 @@ pre code {
 
 @media (min-width: 576px) {
   .container, .container-sm {
-    max-width: 95%;
+    max-width: 98%;
   }
 }
 
 @media (min-width: 768px) {
   .container, .container-sm, .container-md {
-    max-width: 95%;
+    max-width: 98%;
   }
 }
 
 @media (min-width: 992px) {
   .container, .container-sm, .container-md, .container-lg {
-    max-width: 95%;
+    max-width: 98%;
   }
 }
 
 @media (min-width: 1200px) {
   .container, .container-sm, .container-md, .container-lg, .container-xl {
-    max-width: 95%;
+    max-width: 98%;
   }
 }
 
