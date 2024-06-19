@@ -1934,7 +1934,7 @@ pre code {
 }
 
 .table-dark.table-striped tbody tr:nth-of-type(odd) {
- background-color: rgb(234, 242, 250);
+background-color: rgba(225, 237, 255, 0.45);
 }
 
 .table-dark.table-hover tbody tr:hover {
